@@ -1,0 +1,1 @@
+#This project is to make rock paper scissors using JavaScript.
